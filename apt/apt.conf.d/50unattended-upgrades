@@ -49,19 +49,19 @@ Unattended-Upgrade::DevRelease "false";
 // If empty or unset then no email is sent, make sure that you
 // have a working mail setup on your system. A package that provides
 // 'mailx' must be installed. E.g. "user@example.com"
-Unattended-Upgrade::Mail "joppe.duthoit@gmail.com";
+// Unattended-Upgrade::Mail "joppe.duthoit@gmail.com";
 
 // Set this value to "true" to get emails only on errors. Default
 // is to always send a mail if Unattended-Upgrade::Mail is set
-Unattended-Upgrade::MailOnlyOnError "true";
+// Unattended-Upgrade::MailOnlyOnError "true";
 
 // Remove unused automatically installed kernel-related packages
 // (kernel images, kernel headers and kernel version locked tools).
-Unattended-Upgrade::Remove-Unused-Kernel-Packages "true";
+// Unattended-Upgrade::Remove-Unused-Kernel-Packages "true";
 
 // Do automatic removal of new unused dependencies after the upgrade
 // (equivalent to apt-get autoremove)
-Unattended-Upgrade::Remove-Unused-Dependencies "true";
+// Unattended-Upgrade::Remove-Unused-Dependencies "true";
 
 // Automatically reboot *WITHOUT CONFIRMATION*
 //  if the file /var/run/reboot-required is found after the upgrade 
