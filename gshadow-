@@ -53,3 +53,5 @@ uuidd:!::
 check:!::
 incron:!::
 ntp:!::
+bind:!::
+telnetd:!::
