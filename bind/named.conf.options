@@ -1,15 +1,16 @@
 options {
 	directory "/var/cache/bind";
 	
-	recursion yes;
-	listen-on { 193.191.177.198; };
-	allow-transfer { none; };
-
-	forwarders {
-		8.8.8.8;
-		8.8.4.4;
-	};
-
+//	recursion yes;
+//	allow-recursion { any; };
+	//allow-query { any; };
+	//listen-on { 193.191.177.198; };
+	allow-transfer { 193.191.176.254; 193.191.177.4; };
+//	forwarders {
+//		8.8.8.8;
+//		8.8.4.4;
+//	};
+	
 	// If there is a firewall between you and nameservers you want
 	// to talk to, you may need to fix the firewall to allow multiple
 	// ports to talk.  See http://www.kb.cert.org/vuls/id/800113
