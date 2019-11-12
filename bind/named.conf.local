@@ -6,7 +6,7 @@
 // organization
 //include "/etc/bind/zones.rfc1918";
 
-zone "joppe-duthoit.sb.uclllabs.be" {
+zone "joppe-duthoit.sb.uclllabs.be." {
 	type master;
 	file "/etc/bind/zones/db.joppe-duthoit.be";
 	notify yes;
