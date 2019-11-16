@@ -2,3 +2,5 @@ mrt/
 
 incron.d/etc.conf
 incron.d/
+bind/mrt-zones
+bind/named.conf.mrt-zones
