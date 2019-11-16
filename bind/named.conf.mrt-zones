@@ -1,1 +1,9 @@
 
+zone "subzone.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzone.mrt.zone";
+};
+zone "asdf.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/asdf.mrt.zone";
+};

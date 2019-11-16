@@ -20,4 +20,5 @@ www	IN	A	193.191.177.198
 test	IN	A	193.191.177.254
 
 ; NS records from script
-
+subzone	IN	NS	ns.joppe-duthoit.sb.uclllabs.be
+asdf	IN	NS	ns.joppe-duthoit.sb.uclllabs.be
