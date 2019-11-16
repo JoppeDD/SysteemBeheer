@@ -1,0 +1,7 @@
+echo "zone \"$1.joppe-duthoit.sb.uclllabs.be\" {" >> /etc/bind/named.conf.mrt-zones
+echo "	type master;" >> /etc/bind/named.conf.mrt-zones
+echo "	file \"/etc/bind/mrt_zones/$1.mrt.zone;\"" >> /etc/bind/named.conf.mrt-zones
+echo "};" >> /etc/bind/named.conf.mrt-zones
+cp /etc/bind/db.template /etc/bind/mrt_zones/$1.mrt.zone
+echo "$1	IN	NS	ns.joppe-duthoit.sb.uclllabs.be" >> /etc/bind/zones/db.joppe-duthoit.be
+sed -i "s/replace/$1/g" /etc/bind/mrt_zones/$1.mrt.zone
