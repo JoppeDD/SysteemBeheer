@@ -5,7 +5,7 @@ options {
 	allow-recursion { any; };
 	allow-query { any; };
 	listen-on { 193.191.177.198; };
-	allow-transfer { 193.191.176.254; 193.191.177.4; };
+//	allow-transfer { 193.191.176.254; 193.191.177.4; };
 //	forwarders {
 //		8.8.8.8;
 //		8.8.4.4;

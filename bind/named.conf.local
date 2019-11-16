@@ -7,10 +7,15 @@
 //include "/etc/bind/zones.rfc1918";
 //include "/etc/bind/named.conf.mrt-zones";
 
-zone "joppe-duthoit.sb.uclllabs.be." {
+zone "joppe-duthoit.sb.uclllabs.be" {
 	type master;
 	file "/etc/bind/zones/db.joppe-duthoit.be";
 	notify yes;
-	allow-transfer { 193.191.176.254; 193.191.177.4; };
-	also-notify { 193.191.176.254; 193.191.177.4; };
-}
+	allow-transfer { 193.191.176.254; 193.191.177.4; 193.191.177.195; };
+	also-notify { 193.191.176.254; 193.191.177.4; 193.191.177.195; };
+};
+
+zone "david-diazaviles.sb.uclllabs.be" {
+	type slave;
+	masters { 193.191.177.195; };
+};
