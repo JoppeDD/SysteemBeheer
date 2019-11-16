@@ -1,8 +1,1 @@
-zone "test.joppe-duthoit.sb.uclllabs.be" {
-	type master;
-          file test.mrt.zone;
-};
-zone "test.joppe-duthoit.sb.uclllabs.be" {
-	type master;
-	file test.mrt.zone;
-};
+
