@@ -1,6 +1,6 @@
 $TTL    604800
 @       IN      SOA     joppe-duthoit.sb.uclllabs.be. admin.joppe-duthoit.sb.uclllabs.be. (
-                             13         ; Serial
+                             14         ; Serial
                          604800         ; Refresh
                           86400         ; Retry
                         2419200         ; Expire
@@ -18,6 +18,8 @@ $TTL    604800
 ns	IN	A	193.191.177.198
 www	IN	A	193.191.177.198
 test	IN	A	193.191.177.254
+www1	IN	A	193.191.177.198
+www2	IN	A	193.191.177.198
 
 ; NS records from script
 subzone	IN	NS	ns.joppe-duthoit.sb.uclllabs.be
