@@ -2,7 +2,7 @@ if [ -t == $1 ]
 then
 shift
 	case "$1" in
-	A)	echo "A $2 $3 $4" ;;
+	A)	echo "$2	IN	A	$3" >> /etc/bind/mrt_zones/$4 ;;
 	CNAME)	echo "$2	IN	CNAME	$3" >> /etc/bind/zones/db.joppe-duthoit.be ;;
 	MX)	echo "1w	IN	MX   10	$2.$4." >> /etc/bind/zones/db.joppe-duthoit.be
 		echo "$2	IN	A	$3" >> /etc/bind/zones/db.joppe-duthoit.be;;
