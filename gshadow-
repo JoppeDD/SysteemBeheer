@@ -29,7 +29,7 @@ irc:*::
 src:*::
 gnats:*::
 shadow:*::
-utmp:*::
+utmp:*::telnetd
 video:*::
 sasl:*::
 plugdev:*::
