@@ -17,5 +17,6 @@
 #   The files must end with '.cnf', otherwise they'll be ignored.
 #
 
+#bind-address    = 0.0.0.0
 !includedir /etc/mysql/conf.d/
 !includedir /etc/mysql/mysql.conf.d/
