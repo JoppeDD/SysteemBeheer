@@ -55,3 +55,4 @@ incron:x:114:
 ntp:x:115:
 bind:x:116:
 telnetd:x:117:
+mysql:x:118:
