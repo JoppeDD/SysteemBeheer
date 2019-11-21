@@ -1,13 +1,18 @@
-if [ -t == $1 ]
+#!/bin/bash
+if [ "$1" = "-t" ]
 then
 shift
 	case "$1" in
 	A)	echo "$2	IN	A	$3" >> /etc/bind/mrt_zones/$4 ;;
 	CNAME)	echo "$2	IN	CNAME	$3" >> /etc/bind/zones/db.joppe-duthoit.be ;;
 	MX)	echo "1w	IN	MX   10	$2.$4." >> /etc/bind/zones/db.joppe-duthoit.be
-		echo "$2	IN	A	$3" >> /etc/bind/zones/db.joppe-duthoit.be;;
-	*)	echo "A $2 $3 $4" ;;
+		echo "$2	IN	A	$3" >> /etc/bind/zones/db.joppe-duthoit.be ;;
 	esac
 else
-	echo "Not a valid option"
+	if [ -z "$1" ]
+	then 
+		echo "Can't be empty"
+	else
+		echo "$1	IN	A	$2" >> /etc/bind/mrt_zones/$3
+	fi
 fi

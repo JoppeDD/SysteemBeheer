@@ -1,0 +1,16 @@
+#!/bin/bash
+domain=(${1//./ })
+echo "<VirtualHost *:80>" >> /etc/apache2/sites-available/$domain.conf
+echo "	ServerName $domain.joppe-duthoit.sb.uclllabs.be" >> /etc/apache2/sites-available/$domain.conf
+echo "	DocumentRoot /var/www/labo/scripts/$domain" >> /etc/apache2/sites-available/$domain.conf
+echo "</VirtualHost>" >> /etc/apache2/sites-available/$domain.conf
+mkdir /var/www/labo/scripts/$domain
+touch /var/www/labo/scripts/$domain/index.html
+echo "<html>" >> /var/www/labo/scripts/$domain/index.html
+echo "	welcome $domain" >> /var/www/labo/scripts/$domain/index.html
+echo "</html>" >> /var/www/labo/scripts/$domain/index.html
+echo "$domain	IN	A	193.191.177.198" >> /etc/bind/zones/db.joppe-duthoit.be
+a2dissite $domain.conf
+a2ensite $domain.conf
+service bind9 restart
+service apache2 restart
