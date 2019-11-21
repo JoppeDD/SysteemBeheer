@@ -1,1 +1,5 @@
 
+zone "zxcv.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/zxcv.joppe-duthoit.sb.uclllabs.be";
+};
