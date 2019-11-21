@@ -22,4 +22,3 @@ www1	IN	A	193.191.177.198
 www2	IN	A	193.191.177.198
 
 ; Records from scripts
-zxcv	IN	NS	ns.joppe-duthoit.sb.uclllabs.be
