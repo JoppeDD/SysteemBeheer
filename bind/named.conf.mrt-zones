@@ -1,1 +1,13 @@
 
+zone "subzoneixah9x.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneixah9x.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneee9hei.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneee9hei.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzonephaph8.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzonephaph8.joppe-duthoit.sb.uclllabs.be";
+};
