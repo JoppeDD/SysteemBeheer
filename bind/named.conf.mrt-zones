@@ -11,3 +11,551 @@ zone "subzonephaph8.joppe-duthoit.sb.uclllabs.be" {
 	type master;
 	file "/etc/bind/mrt_zones/subzonephaph8.joppe-duthoit.sb.uclllabs.be";
 };
+zone "subzoneaevi4i.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneaevi4i.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneabu1oh.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneabu1oh.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzonexu7ohy.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzonexu7ohy.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzonekohg2i.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzonekohg2i.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzonemoo9aa.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzonemoo9aa.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneiew7ch.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneiew7ch.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzonebonuf8.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzonebonuf8.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzonecache2.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzonecache2.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneaisee7.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneaisee7.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneax5ahg.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneax5ahg.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneboda8u.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneboda8u.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneur7ech.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneur7ech.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneaphi7u.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneaphi7u.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneohf3ca.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneohf3ca.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneaz9jum.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneaz9jum.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneahlae8.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneahlae8.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneoo5eed.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneoo5eed.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzonevaix2o.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzonevaix2o.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzonecee9zo.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzonecee9zo.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneim8poh.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneim8poh.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneekie2h.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneekie2h.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneair9xo.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneair9xo.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneiugi5v.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneiugi5v.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzonewurei8.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzonewurei8.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzonebeb4ez.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzonebeb4ez.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneithi6u.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneithi6u.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzonequier2.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzonequier2.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzonehah3ui.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzonehah3ui.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneshah7a.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneshah7a.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzonepu8lie.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzonepu8lie.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneeithe8.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneeithe8.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzonevei2je.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzonevei2je.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneahp3ub.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneahp3ub.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneree9lu.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneree9lu.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneohgh8e.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneohgh8e.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneeix1to.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneeix1to.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneukai8o.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneukai8o.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneauwoh3.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneauwoh3.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzonedah0ah.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzonedah0ah.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneciqu7o.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneciqu7o.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzonebie8qu.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzonebie8qu.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzonecha1ri.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzonecha1ri.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneloo3ae.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneloo3ae.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzonequah2g.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzonequah2g.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneaenai2.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneaenai2.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzonezee6pi.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzonezee6pi.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzonecee7ee.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzonecee7ee.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzonetae5sa.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzonetae5sa.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzonekai6fi.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzonekai6fi.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneangoo5.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneangoo5.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneohsh6f.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneohsh6f.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneookee2.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneookee2.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzonewi5eih.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzonewi5eih.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneaewai9.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneaewai9.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneeeh1ib.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneeeh1ib.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneaur2su.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneaur2su.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneyi4qui.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneyi4qui.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneephah2.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneephah2.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneeuzae7.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneeuzae7.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneosh1ee.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneosh1ee.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneohd5oh.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneohd5oh.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneoos6um.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneoos6um.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneaic2th.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneaic2th.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzonethoo6w.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzonethoo6w.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzonemah8mo.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzonemah8mo.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzonevu3exu.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzonevu3exu.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneohgh7u.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneohgh7u.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneeake3a.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneeake3a.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzonezei2bi.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzonezei2bi.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneihiu1u.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneihiu1u.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzonefee8ei.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzonefee8ei.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneshoos3.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneshoos3.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzonepho8vi.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzonepho8vi.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneaiqu1r.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneaiqu1r.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneohth1o.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneohth1o.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneeghie0.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneeghie0.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneohru9a.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneohru9a.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneeo4die.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneeo4die.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneshie2k.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneshie2k.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneaizei7.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneaizei7.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzonekoht3c.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzonekoht3c.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneaasic4.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneaasic4.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzonesu6eif.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzonesu6eif.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneuigoi9.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneuigoi9.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneap0rie.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneap0rie.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzonefai5bu.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzonefai5bu.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneeesah9.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneeesah9.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneahs5oo.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneahs5oo.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzonecohpo5.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzonecohpo5.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzonequu7ma.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzonequu7ma.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzonevooha8.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzonevooha8.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneeocoh6.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneeocoh6.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzonele0ait.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzonele0ait.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzonesohki7.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzonesohki7.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneeina2s.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneeina2s.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneeequ7e.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneeequ7e.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneieche9.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneieche9.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneoor6ai.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneoor6ai.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneaeni0v.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneaeni0v.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneuk9ul7.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneuk9ul7.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneair2oo.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneair2oo.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzonerua0zi.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzonerua0zi.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneesee5e.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneesee5e.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzonejoo3ch.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzonejoo3ch.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzonepo1ook.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzonepo1ook.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneyoo5oa.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneyoo5oa.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneaelah6.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneaelah6.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneip1pha.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneip1pha.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneshu1ai.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneshu1ai.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneeiqu4n.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneeiqu4n.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzonequoe6r.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzonequoe6r.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneoob9fe.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneoob9fe.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneahqu8z.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneahqu8z.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneohqu1o.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneohqu1o.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneeejun4.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneeejun4.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzonewiej0n.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzonewiej0n.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzonefik3ee.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzonefik3ee.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneaech0n.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneaech0n.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzonexai5oo.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzonexai5oo.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneohgh8a.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneohgh8a.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneicith7.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneicith7.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzonephua9d.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzonephua9d.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneieph9i.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneieph9i.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzonewaeph0.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzonewaeph0.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneohgh0c.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneohgh0c.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzonekeihe0.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzonekeihe0.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzonephus7a.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzonephus7a.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzonexu0eov.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzonexu0eov.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneuu4ofe.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneuu4ofe.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzonehai8oo.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzonehai8oo.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneethe8i.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneethe8i.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneahx4oh.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneahx4oh.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzonekuofe7.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzonekuofe7.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzonedooqu3.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzonedooqu3.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzonekei8er.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzonekei8er.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneieroh5.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneieroh5.joppe-duthoit.sb.uclllabs.be";
+};
+zone "subzoneoofah0.joppe-duthoit.sb.uclllabs.be" {
+	type master;
+	file "/etc/bind/mrt_zones/subzoneoofah0.joppe-duthoit.sb.uclllabs.be";
+};
