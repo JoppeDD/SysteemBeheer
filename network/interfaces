@@ -2,3 +2,8 @@
 # /etc/netplan for current configuration.
 # To re-enable ifupdown on this system, you can run:
 #    sudo apt install ifupdown
+iface eth0 inet6 static
+pre-up modprobe ipv6
+address 2001:6a8:2880:a077::198
+netmask 64
+gateway 2001:6a8:2880:a077::1
