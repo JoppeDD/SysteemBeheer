@@ -59,3 +59,4 @@ mysql:x:118:
 phil:x:1001:
 netdev:x:119:
 ftp:x:120:
+wireshark:x:121:
