@@ -29,4 +29,5 @@ ntp:x:108:115::/nonexistent:/usr/sbin/nologin
 bind:x:109:116::/var/cache/bind:/usr/sbin/nologin
 telnetd:x:110:117::/nonexistent:/usr/sbin/nologin
 mysql:x:111:118:MySQL Server,,,:/nonexistent:/bin/false
-phil:x:1001:1001::/home/phil:/bin/bash
+phil:x:1001:1001:,,,:/home/phil:/bin/bash
+ftp:x:112:120::/srv/ftp:/usr/sbin/nologin

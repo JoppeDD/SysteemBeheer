@@ -57,3 +57,5 @@ bind:x:116:
 telnetd:x:117:
 mysql:x:118:
 phil:x:1001:
+netdev:x:119:
+ftp:x:120:
