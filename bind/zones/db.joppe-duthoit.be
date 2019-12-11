@@ -1,6 +1,6 @@
 $TTL    604800
 @       IN      SOA     joppe-duthoit.sb.uclllabs.be. admin.joppe-duthoit.sb.uclllabs.be. (
-                             26         ; Serial
+                             28         ; Serial
                          604800         ; Refresh
                           86400         ; Retry
                         2419200         ; Expire
