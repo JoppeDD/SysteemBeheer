@@ -1,17 +1,22 @@
+acl "trusted" {
+	193.191.177.198;
+	193.191.176.254;
+	193.191.177.4;
+};
+
 options {
 	directory "/var/cache/bind";
 	
-//	recursion yes;
-//	allow-recursion { any; };
+	recursion yes;
+	allow-recursion { any; };
 //	allow-query { any; };
-	listen-on port 54 { 193.191.177.198; };
-//	listen-on port 53 { any; };
+	listen-on { 193.191.177.198; };
 //	use-v6-udp-ports { range 53 53; };
-//	allow-transfer { 193.191.176.254; 193.191.177.4; };
-//	forwarders {
-//		8.8.8.8;
-//		8.8.4.4;
-//	};
+	allow-transfer { none; };
+	forwarders {
+		8.8.8.8;
+		8.8.4.4;
+	};
 	
 	// If there is a firewall between you and nameservers you want
 	// to talk to, you may need to fix the firewall to allow multiple
@@ -33,7 +38,7 @@ options {
 	dnssec-validation auto;
 
 	auth-nxdomain no;    # conform to RFC1035
-//	listen-on-v6 port 53 { any; };
+	listen-on-v6 { any; };
 //	use-v6-udp-ports { range 53 53; };
 };
 
