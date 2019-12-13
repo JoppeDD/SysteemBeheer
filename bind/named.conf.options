@@ -4,7 +4,9 @@ options {
 //	recursion yes;
 //	allow-recursion { any; };
 //	allow-query { any; };
-	listen-on { 193.191.177.198; };
+	listen-on port 54 { 193.191.177.198; };
+//	listen-on port 53 { any; };
+//	use-v6-udp-ports { range 53 53; };
 //	allow-transfer { 193.191.176.254; 193.191.177.4; };
 //	forwarders {
 //		8.8.8.8;
